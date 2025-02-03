@@ -12,3 +12,4 @@ wheels/
 dataset/*.npy
 dataset/*.txt
 dataset/*.pkl
+*.pkl
